@@ -13,14 +13,14 @@ collections:
 typography_spectrum: 0.7867884
 color:
   saturation: 1
-  brandStrength: 0.9399266
+  brandStrength: 0
   lightness: 0.7234157
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#FEAC00'
+    - '#FF02FB'
+    - '#FD7751'
+    - '#FEFEFE'
+    - '#E9CAA9'
   rhythmicContrast: 0.8243824
 layout_spectrum: 0.9081632
 name: GooglyMoogly
