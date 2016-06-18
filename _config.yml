@@ -1,14 +1,26 @@
-layout_spectrum: 0.9081632
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.7867884
 color:
   saturation: 1
   brandStrength: 0.9399266
-  lightness: 0.4634801
-  rhythmicContrast: 0.6879699
+  lightness: 0.7234157
   brandColors:
     - '#F7EDF0'
     - '#F4CBC6'
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-typography_spectrum: 0.7867884
+  rhythmicContrast: 0.8243824
+layout_spectrum: 0.9081632
 name: GooglyMoogly
